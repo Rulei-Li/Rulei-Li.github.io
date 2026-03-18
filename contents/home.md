@@ -8,11 +8,11 @@ My research interests lie in geophysical forward and inverse modeling, time-freq
 
 
 #### Education  
-**China University of Mining and Technology**,&emsp;  &emsp;&emsp;   &emsp;&ensp;     Bachelor's degree program&emsp;&emsp;&emsp;&emsp;&emsp; (2018–2022)  
+**China University of Mining and Technology**,&emsp;  &emsp;&emsp;   &emsp;&ensp;     Bachelor's degree program&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; (2018–2022)  
 
 **China University of Mining and Technology(Beijing)**, &emsp;Master's degree program of Zhao Jingtao &emsp;(2023–2026)
 
-**China University of Petroleum(Beijing)**, &emsp;      &emsp;&emsp;   &emsp;&emsp;&emsp;   Doctor's degree program of Rao Ying&emsp;&emsp;&emsp;&emsp; (2026–now) 
+**China University of Petroleum(Beijing)**, &emsp;      &emsp;&emsp;   &emsp;&emsp;&emsp;   Doctor's degree program of Rao Ying&emsp;&emsp;&emsp;&ensp; (2026–now) 
 
 #### Research Interests  
 Geophysical forward and inverse modeling；Study on surface wave dispersion characteristics；Time-frequency analysis method of seismic data；
