@@ -1,20 +1,17 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[[Li Rulei](https://github.com/Rulei-Li)](https://github.com/Rulei-Li)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+Doctoral candidate at China University of Petroleum(Beijing), 2026 grade\
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>18231481465@163.com</code>  
+
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**China University of Mining and Technology**, Bachelor's degree program (2018 – 2022)\  
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
+**China University of Mining and Technology(Beijing)**, Master's degree program of Zhao Jingtao (2023 – 2026)\
 
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+**China University of Petroleum(Beijing)**, Doctor's degree program of Rao Ying (2026 –  now)\  
 
 #### Research Interests  
-XX, XX, XX, XX.
+Welcome everyone to engage in skiing exchanges and basketball referee exchanges
