@@ -16,4 +16,4 @@
 
 #### Key Contributions:
 - Proposing a self-attention mechanism neural network for high-precision inversion of surface waves.
-- Addressing the issue of low resolution in extracting dispersion curves of surface waves in geophysics, a method is proposed to enhance lateral resolution while maintaining longitudinal resolution
+- Addressing the issue of low resolution in extracting dispersion curves of surface waves in geophysics, a method is proposed to enhance lateral resolution while maintaining longitudinal resolution.
