@@ -8,7 +8,7 @@ My research interests lie in geophysical forward and inverse modeling, time-freq
 
 
 #### Education  
-**China University of Mining and Technology**,&emsp;  &emsp;&emsp;   &emsp;&ensp;     Bachelor's degree program&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; (2018–2022)  
+**China University of Mining and Technology**,&emsp;  &emsp;&emsp;   &emsp;&ensp;     Bachelor's degree program&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  (2018–2022)  
 
 **China University of Mining and Technology(Beijing)**, &emsp;Master's degree program of Zhao Jingtao &emsp;(2023–2026)
 
