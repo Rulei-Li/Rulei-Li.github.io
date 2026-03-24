@@ -5,7 +5,7 @@ My research interests lie in geophysical forward and inverse modeling, time-freq
 
 #### Email  
 <code>18231481465@163.com</code>  
-
+<code>RuleiLi@outlook.com</code>  
 
 #### Education  
 **China University of Mining and Technology**,&emsp;  &emsp;&emsp;   &emsp;&ensp;     Bachelor's degree program&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  (2018–2022)  
