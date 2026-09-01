@@ -1,4 +1,5 @@
 [[Li Rulei's Github Home](https://github.com/Rulei-Li)](https://github.com/Rulei-Li)
+[[Li Rulei's ResearchGate Home](https://www.researchgate.net/profile/Rulei-Li)](https://www.researchgate.net/profile/Rulei-Li)
 
 Doctoral candidate at China University of Petroleum(Beijing), 2026 grade.
 My research interests lie in geophysical forward and inverse modeling, time-frequency analysis of seismic data, as well as surface wave dispersion characteristics and imaging.
