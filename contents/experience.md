@@ -12,7 +12,7 @@
 ### **Postgraduate Studies**  
 **September 2023 – June 2026 &emsp;|&emsp; China University of Mining and Technology(Beijing)  &emsp;|&emsp;Student**
 
-    I obtained my master's degree under the supervision of Professor. My research focus is on surface wave imaging.
+    I obtained my master's degree. My research focus on surface wave imaging.
 
 #### Key Contributions:
 - Proposing a self-attention mechanism neural network for high-precision inversion of surface waves.
